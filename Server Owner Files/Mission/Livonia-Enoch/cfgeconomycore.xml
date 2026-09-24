@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+		<rootclass name="BoatScript" act="car" reportMemoryLOD="no" /> <!-- boats -->
+	</classes>
+	<defaults>
+		<default name="dyn_radius" value="30" />
+		<default name="dyn_smin" value="0" />
+		<default name="dyn_smax" value="0" />
+		<default name="dyn_dmin" value="1" />
+		<default name="dyn_dmax" value="5" />
+		<default name="log_ce_loop" value="false"/>
+		<default name="log_ce_dynamicevent" value="false"/>
+		<default name="log_ce_vehicle" value="false"/>
+		<default name="log_ce_lootspawn" value="false"/>
+		<default name="log_ce_lootcleanup" value="false"/>
+		<default name="log_ce_lootrespawn" value="false"/>
+		<default name="log_ce_statistics" value="false"/>
+		<default name="log_ce_zombie" value="false"/>
+		<default name="log_ce_animal" value="false"/>
+		<default name="log_storageinfo" value="false"/>
+		<default name="log_hivewarning" value="true"/>
+		<default name="log_missionfilewarning" value="true"/>
+		<default name="save_events_startup" value="true"/>
+		<default name="save_types_startup" value="true"/>
+	</defaults>
+    <ce folder="VORTEX_ce">   		    
+            <file name="4KTypesLivonia.xml" type="types" />
+   <!--  <file name="ArmaSpwnTypes.xml" type="spawnabletypes" />-->
+   		    <file name="ArmaWeaponPackTypes.xml" type="types" />
+   <!--    Base Building Plus       -->
+            <file name="BBP_Crafted_Types.xml" type="types" />
+		    <file name="BBP_Loot_Types.xml" type="types" />
+		    <file name="BBP_Phlanka.xml" type="types" />
+		    <file name="BBP_types.xml" type="types" />
+		    <file name="BBPItemPackTypes.xml" type="types" />
+   <!--    Base Building Plus       -->
+		    <file name="BF_Types.xml" type="types" />
+		    <file name="BTC_types.xml" type="types" />
+		    <file name="CodeLock.xml" type="types" />
+	<!-- <file name="CraftedKartTypes.xml" type="types" />-->
+		    <file name="DNAtypes.xml" type="types" />
+		    <file name="dogtags_types.xml" type="types" />
+		    <file name="DrippySneakers.xml" type="types" />
+	<!--<file name="Exodus.xml" type="types" />-->
+	        <file name="FlipTransportaion.xml" type="types" />
+ 		    <file name="FungiLightsPack_types.xml" type="types" />
+ 		    <file name="Fur_ClothesTypes.xml" type="types" />
+ 	<!--<file name="GoKart.xml" type="types" />-->
+		    <file name="gpb_stims.xml" type="types" />
+		    <file name="HeliPad_types.xml" type="types" />
+ 		    <file name="iM7s_DrugRunning_types.xml" type="types" />
+		    <file name="Infinite9v_Types.xml" type="types" />
+		    <file name="KatanaTypes.xml" type="types" />
+	<!--  <file name="KeyCardTypes.xml" type="types" />-->
+		    <file name="LBMaster_TypeLife.xml" type="types" />
+		    <file name="LightSword_Types.xml" type="types" />
+	<!--  <file name="LoWStorageTypes.xml" type="types" />-->
+ 		    <file name="matypes.xml" type="types" />
+		    <file name="MFPak_Type.xml" type="types" />
+		    <file name="MyBackPackstypes.xml" type="types" />
+		    <file name="MVS_Types.xml" type="types" />
+		    <file name="MZKOTH_types.xml" type="types" />
+ 		    <file name="objectpack.xml" type="types" />
+ 	<!-- <file name="ParachuteTypes.xml" type="types" />-->
+		    <file name="ParagonArmorTypes.xml" type="types" />
+            <file name="ParagonArsenal_SpawnableTypes.xml" type="spawnabletypes" />
+		    <file name="ParagonCollectibletypes.xml" type="types" />
+		    <file name="ParagonStorageType.xml" type="types" />
+		    <file name="ParagonWeapons.xml" type="types" />
+	<!-- <file name="PC_BitcoingTypes.xml" type="types" />-->
+	<!-- <file name="Pernicek.xml" type="types" />-->
+	<!--<file name="PokiBalls.xml" type="types" />-->
+		    <file name="RadioFungi_types.xml" type="types" />
+ 	<!-- <file name="rag_basebuilding.xml" type="types" />-->
+ 		    <file name="rag_dragons.xml" type="types" />
+	        <file name="RFFSHelis_Types.xml" type="types" />
+	<!-- <file name="RFWC_Types.xml" type="types" />-->
+		    <file name="TTEETTGhillies_types.xml" type="types" />
+ 		    <file name="UGBTypes.xml" type="types" />
+	<!--  <file name="VORTEX_stims.xml" type="types" />-->
+		    <file name="VortexModTypes.xml" type="types" />
+		    <file name="VortexPackedTypes.xml" type="types" />
+	<!-- <file name="WindstrideTypes.xml" type="types" />-->
+		    <file name="ZenTypes.xml" type="types" />
+		    <file name="ZombieKidType.xml" type="types" />
+  </ce>
+</economycore>
