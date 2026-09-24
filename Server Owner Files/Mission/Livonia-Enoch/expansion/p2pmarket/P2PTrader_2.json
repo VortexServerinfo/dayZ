@@ -1,0 +1,43 @@
+{
+  "m_Version": 8,
+  "m_TraderID": 2,
+  "m_ClassName": "ExpansionP2PTraderPeter",
+  "m_Position": [
+    11775.879883,
+    173.349243,
+    10711.538086
+  ],
+  "m_Orientation": [
+    168.889008,
+    0,
+    0
+  ],
+  "m_LoadoutFile": "YellowKingLoadout",
+  "m_DisplayName": "Greg",
+  "m_DisplayIcon": "Deliver",
+  "m_Faction": "InvincibleObservers",
+  "m_Waypoints": [],
+  "m_EmoteID": 46,
+  "m_EmoteIsStatic": 0,
+  "m_RequiredFaction": "",
+  "m_UseReputation": -1,
+  "m_MinRequiredReputation": -1,
+  "m_MaxRequiredReputation": 0,
+  "m_RequiredCompletedQuestID": -1,
+  "m_IsGlobalTrader": 1,
+  "m_Currencies": [
+    "BTC_Currency_Coin_1",
+    "BTC_Currency_Note_5",
+    "BTC_Currency_Note_10",
+    "BTC_Currency_Note_20",
+    "BTC_Currency_Note_50",
+    "BTC_Currency_Note_100",
+    "BTC_Currency_Note_200",
+    "BTC_Currency_Note_500",
+    "BTC_Currency_Case_1000",
+    "BTC_Currency_Case_10000",
+    "BTC_Currency_Barrel_1000000"
+  ],
+  "m_DisplayCurrencyValue": 1,
+  "m_DisplayCurrencyName": ""
+}
