@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+    <type name="Paragon_NTS_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_NTS_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_NTS_White">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_NTS_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_XR80_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_XR80_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_XR80_White">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_XR80_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_KR65_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_KR65_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_KR65_White">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_KR65_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Alligator">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Alligator_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_NTW">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_NTW_3Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Anzio">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Anzio_3Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Anzio_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Anzio_3Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M82_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_M82_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M82_Grey">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_M82_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M82_Green">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_M82_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M82_Tan">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_M82_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_AX50_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_AX50_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_AX50_Grey">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_AX50_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_AX50_Tan">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_AX50_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_AXMC">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_AXMC_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Kalamit">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Kalamit_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_AS50">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_AS50_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Lynx_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Lynx_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_VSSK">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_VSSK_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_SnowOwl">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_SnowOwl_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_SRS">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_SRS_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M100">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_M100_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M100_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_M100_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M200_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_M200_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M200_Grey">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_M200_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M200_White">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_M200_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M300">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_M300_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M300_Grey">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_M300_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M300_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_M300_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Rogue">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Rogue_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Remington_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Remington_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Remington_Blue">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Remington_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Remington_Tan">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Remington_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_R700">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_R700_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_SV98">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_SV98_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_DVL10S">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_DVL10_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_DVL10">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_DVL10_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Blaze_Blue">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Blaze_Red">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Blaze_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_MRAD">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_MRAD_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Gevar">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Gevar_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Delta_Black">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Delta_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Delta_Tan">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Delta_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Scar">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_Scar_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_MCX_Black">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_MCX_15Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_MCX_Tan">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_MCX_15Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_HT">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_HT_25Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M60">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_M60_150Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_PKP">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_PKP_250Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_PKM">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_PKM_250Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M240">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_M240_250Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_M249">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_M249_200Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Scar_H">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_Scar_H_25Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_SA58">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_SA58_50Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_MK14_Black">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_MK14_20Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_MK14_White">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_MK14_20Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_HK">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_HK_25Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_SR25_Black">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_SR25_25Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_SR25_Tan">
+        <attachments chance="1.00">
+            <item name="Paragon_Acog_Reddot_Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_SR25_25Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_SR25_Green">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_SR25_25Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_AR15">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_AR15_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Scar_L">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_MDR_Tan">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_MDR_Black">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_MP7_Black">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_MP7_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_MP7_Tan">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_MP7_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_MPX_Black">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_MPX_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Scorpion_Black">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_Scorpion_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Vector_Black">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_Vector_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Vector_Tan">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_Vector_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_Beowulf">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Mag_Beowulf_20Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_ASR12">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_ASR12_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_PopeChey">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_PopeChey_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_PopeChey_Grey">
+        <attachments chance="1.00">
+            <item name="HuntingParagon_Acog_Reddot_OpticOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_PopeChey_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Anzio_Alpha">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Anzio_3Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Anzio_Bass">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Anzio_3Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Anzio_Boom">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Anzio_3Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Anzio_Fire">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Anzio_3Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Anzio_Galaxy">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Anzio_3Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Anzio_Icy">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Anzio_3Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Anzio_Rainbow">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Anzio_3Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Anzio_Rainbow2">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Anzio_3Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Anzio_Toxic">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Anzio_3Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_Toxic">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_Smoke">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_Skittles">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_RedHell">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_Merika">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_LouisVuitton2">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_LouisVuitton">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_Heartz">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_GreenTrip">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_Goldman">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_Galaxy">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_Fire">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_Disobey">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_Diamond">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_Alligator_ChainLink">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Alligator_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="LWP_PopeChey_Sassy">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_PopeChey_7Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Paragon_AR50">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Paragon_Ammo_20mm" chance="1.00" />
+        </attachments>
+    </type>
+</spawnabletypes>
+

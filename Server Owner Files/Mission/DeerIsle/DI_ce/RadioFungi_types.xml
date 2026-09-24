@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="Fungi_KitBox_FungiLamp">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="Fungi_KitBox_Radio_Shelf_Better">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="RadioGrand_boombox">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="trc_975_boombox">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="trx_black_boombox">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="trx_white_boombox">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="walkman_suny">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="walkman_suny_Blue">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_lamp">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassettecase">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassetterack1">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="Fungi_KitBox_Radio_Shelf">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="Fungi_Scout_Robot">
+        <nominal>20</nominal>
+        <lifetime>2700</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+        <usage name="Industrial"/>
+        <usage name="Lunapark"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Special"/>
+    </type>
+    <type name="fungi_cassette_Trance_Classics">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Gigi_Dagostino">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_The_Prodigy">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Fatboy_Slim">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Social_Distortion">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Judas_Priest">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Iron_Maiden">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_KISS">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Bruce_Springsteen">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_ZZ_Top">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Bon_Jovi">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Tom_Petty">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_BobSeger">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Metallica">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Rammstein">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_LinkinPark">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_SystemOfADown">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Slipknot">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Limp_Bizkit">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Nirvana">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_FooFighters">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_RageAgainstTheMachine">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <type name="fungi_cassette_Sum41">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lootdispatch"/>
+        <tag name="shelves"/>
+    </type>
+    <!-- ... (KEEP YOUR ORIGINAL MIDDLE BLOCK AS-IS) ... -->
+    <type name="fungi_radio_shelf">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="trc_975_boombox_static">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="trx_black_boombox_static">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="trx_white_boombox_static">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="fungi_lamp_static">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Fungi_Scout_Robot_static">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="fungi_lamp_KIT_PLACED">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="fungi_base_radio_shelf_V2">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+</types>

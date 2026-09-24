@@ -1,0 +1,1603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<type name="GhillieTop_American">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+	</type>
+    <type name="VEXT_GhillieHood_Black">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Olive">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Beige">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Flecktarn">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Taiga">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Tropic">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Multicamo">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Multicamo_Black">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Multicamo_Alpine">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Woodland_Artic">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Bloodwater">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Chameleon">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Pine">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Christmas_Tree">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Grass">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Poison">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Glimpse">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Zebra">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Tiger">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Rainbow">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Gold">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Silver">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieHood_Void">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Black">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Olive">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Beige">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Flecktarn">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Taiga">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Tropic">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Multicamo">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Multicamo_Black">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Multicamo_Alpine">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Woodland_Artic">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Bloodwater">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Chameleon">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Pine">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Christmas_Tree">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Grass">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Poison">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Glimpse">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Zebra">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Tiger">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Rainbow">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Gold">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Silver">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieSuit_Void">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Black">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Olive">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Beige">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Flecktarn">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Taiga">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Tropic">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Multicamo">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Multicamo_Black">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Multicamo_Alpine">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Woodland_Artic">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Bloodwater">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Chameleon">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Pine">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Christmas_Tree">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Grass">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Poison">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Glimpse">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Zebra">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Tiger">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Rainbow">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Gold">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Silver">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieTop_Void">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Black">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Olive">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Beige">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Flecktarn">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Taiga">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Tropic">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Multicamo">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Multicamo_Black">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Multicamo_Alpine">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Woodland_Artic">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Bloodwater">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Chameleon">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Pine">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Christmas_Tree">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Grass">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Poison">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Glimpse">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Zebra">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Tiger">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Rainbow">
+        <nominal>5</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothing" />
+        <tag name="floor" />
+    </type>
+    <type name="VEXT_GhillieBushrag_Gold">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieBushrag_Silver">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieBushrag_Void">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Black">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Olive">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Beige">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Flecktarn">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Taiga">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Tropic">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Multicamo">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Multicamo_Black">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Multicamo_Alpine">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Woodland_Artic">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Bloodwater">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Chameleon">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Pine">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Christmas_Tree">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Grass">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Poison">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Glimpse">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Zebra">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Tiger">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Rainbow">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Gold">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Silver">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="VEXT_GhillieAtt_Void">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothing"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+</types>

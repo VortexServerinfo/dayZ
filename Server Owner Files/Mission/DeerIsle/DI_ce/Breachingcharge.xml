@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="HDSN_BreachingCharge">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100<cost/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+    </type>
+    <type name="HDSN_BreachingChargeHeavy">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100<cost/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+    </type>
+    <type name="HDSN_Explosive">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100<cost/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+    </type>
+    <type name="HDSN_Charcoal">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100<cost/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+    </type>
+    <type name="HDSN_Sulfur">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100<cost/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+    </type>
+    <type name="HDSN_Gunpowder">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100<cost/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+    </type>
+    <type name="HDSN_Detonator">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100<cost/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+    </type>
+    <type name="HDSN_C4Sticks">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100<cost/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+    </type>
+    <type name="HDSN_C4NoWiring">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100<cost/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+    </type>
+    <type name="HDSN_C4Stick">
+        <nominal>10</nominal>
+        <lifetime>43200</lifetime>
+        <restock>14400</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100<cost/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+    </type>
+</types>

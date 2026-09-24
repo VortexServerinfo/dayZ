@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<type name="AfroRick">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="DevelopMyApp">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="Gazorpazorpfield">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="JerryWorm">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="KrombopulosWick">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="MnB_RnM">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="Mr_Stealy">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="MrMeeseeks">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="ScarryTerryRun">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="ScarryTerry">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="SMWYG">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="SnuffulesWAMTS">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="Solenya">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="SquanchInThereBaby">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="TotalRickall">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="ToxicWabbaLubba">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="TrustNoOneBP">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="TwoBrothers">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="TwoBrothers1">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="tacticalpantsJBPT">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="tacticaljacketDR">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="tacticaljacketJBPT">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="patchJBPT2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="debugBelt">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+	</type>
+<type name="debugJacket">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+	</type>
+<type name="debugPants">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+	</type>
+<type name="AJ45_BurgerKingCrown">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="special"/>
+		</type>
+<type name="Hare_Rose_Gloves">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="Hare_Rose_Boots">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="Hare_Rose_Jacket">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+<type name="Hare_Rose_Pants">
+		<nominal>1</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="clothing"/>
+        <tag name="shelf" />
+        <usage name="Military"/>
+		</type>
+	</types>

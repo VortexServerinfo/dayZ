@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="Fungi_KitBox_NeonSign_Handgun">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_MillerLite">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_PepeCry">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_FuckYou">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_FlyingDick">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_M4">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_Grenade">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_DayzSign">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_Fungi">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_Fox">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_Boombox">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_AK47">
+        <nominal>5</nominal>
+        <lifetime>144000</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_Bullet">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_Optics">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_Weed">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_SmileyFace">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_Rammstein">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_Canned_Bean">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_FirstAid">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_WallShelf_Wood">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_WallShelf_Plastic">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_Victorian_Lamp_Classic">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_Victorian_Lamp_Shade">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_Victorian_Lamp_Table">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_CarService">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_Kitty">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_ATM">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_Open">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_Guns_Ammo">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+    <type name="Fungi_KitBox_NeonSign_Babe">
+        <nominal>5</nominal>
+        <lifetime>2100</lifetime>
+        <restock>2700</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+    </type>
+</types>

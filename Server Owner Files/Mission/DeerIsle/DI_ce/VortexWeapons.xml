@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<type name="Paragon_Alligator_Cherry">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapon" />
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Military"/>
+	</type>
+<type name="6b43vestJBPT">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="tool"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Military"/>
+		</type>
+<type name="6b43vestDR">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>72000</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"  deloot="0"/>
+        <category name="tool"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Military"/>
+		</type>
+<type name="ax50jbp">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapon" />
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Military"/>
+	</type>
+<type name="ax50jbpt">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapon" />
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Military"/>
+	</type>
+<type name="pkp_co1jbpt">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapon" />
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Military"/>
+	</type>
+<type name="pkp_co2jbpt">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapon" />
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Military"/>
+	</type>
+<type name="pkp_co3jbpt">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapon" />
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Military"/>
+	</type>
+<type name="pkp_co4jbpt">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapon" />
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Military"/>
+	</type>
+<type name="pkp_co5jbpt">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapon" />
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Military"/>
+	</type>
+<type name="pkp_co6jbpt">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapon" />
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Military"/>
+	</type>
+</types>
